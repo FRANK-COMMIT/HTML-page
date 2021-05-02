@@ -1,0 +1,12 @@
+<form>
+  <label for="id">First name:</label>
+  <input type="text" id="firstname" name="firstname" />
+  
+  <label for="id">Last name:</label>
+  <input type="text" id="lastname" name="lastname" />
+
+  <div class="controls">
+    <input type="reset" value="Reset">
+    <input type="submit" value="Submit">
+  </div>
+</form>
